@@ -23,8 +23,8 @@ jschat服务对象为中小企业的官网，基于redis分布式在线客服系
 
 ### 一个完整的webapp demo: 
 下面给出一个完整的例子（点击下面的client.html和slerver.html查看网页源码即可），让您的网站瞬间拥有客服功能： 
-- [client.html](http://121.52.244.150/chat/chat/demo_client.php)
-- [server.html](http://121.52.244.150/chat/chat/demo_server.php)
+- [client.html](http://www.jschat.cn/chat/demo_client.php)
+- [server.html](http://www.jschat.cn/chat/demo_server.php)
 
 
 ### 更多>> 
