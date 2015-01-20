@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//chat/chat.php=GBK
+encoding//chat/client.php=GBK
+encoding//chat/msg.php=GBK
+encoding//chat/redis.class.php=GBK
+encoding//chat/server.php=GBK
+encoding//chat/user.php=GBK
+encoding//js/client.js=GBK
+encoding/sdk_client.js=GBK
